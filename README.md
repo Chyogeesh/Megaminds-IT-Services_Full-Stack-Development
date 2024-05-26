@@ -15,3 +15,12 @@ Backend: Node.js with Express
 Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 Payment Gateway: Stripe
+Deployment
+To deploy the application:
+
+Backend: Deploy on a service like Heroku.
+Frontend: Deploy on a service like Netlify or Vercel.
+Access and Testing
+Provide the deployment links for both frontend and backend. Create test user accounts and share the credentials for backend verification.
+
+This guide provides a starting point. Developing a complete e-commerce site with all essential features will require further steps, including setting up product models, shopping cart functionality, order processing, and integrating payment gateways.
